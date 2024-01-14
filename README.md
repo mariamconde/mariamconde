@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**About me**
+**About me 🎀 **
 - 💼 I am a senior computer science student at UNC Charlotte
 - 🍵 I am a matcha lover!
 
